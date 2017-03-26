@@ -1,2 +1,3 @@
 # Co-occurrence-Terms
-for MapReduce
+Calculate the co-occurrence of terms in the text
+Using Pair and Stripe
